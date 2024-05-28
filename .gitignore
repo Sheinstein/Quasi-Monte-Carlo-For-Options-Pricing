@@ -1,5 +1,5 @@
 
-# ignore the follwoing files
+# ignore the following files
 *.DS_Store
 *.pyc
 *pycache
