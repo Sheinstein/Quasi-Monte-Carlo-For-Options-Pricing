@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Friday Feb 20 2020
-This code was implemented by
-Louis Weyland, Floris Fok and Julien Fer
+Author: Salifyanji Namwila
+Math 96: Mathematical Finance II
+05.13.2024
+Final Project
 """
 
 import helper as helper
