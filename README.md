@@ -34,7 +34,7 @@ The output consists of three arrays:
 Each row in the arrays corresponds to a different sample size, while each column represents different values of epsilon (the precision of the bump in the bump-and-revalue method).
 
 ## Contributing
-This project  was design and implemented  by Salifyanji J Namwila
+This project  was designed and implemented  by Salifyanji J. Namwila
 
 ---
 
